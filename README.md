@@ -14,3 +14,6 @@ The number of clicks should increment when the cat picture is clicked.
 ##Inspiration
 This project was inspired by the facebook sensation Cow Clicker and inspired by the 
 popularity of Cat Images on the internet.
+
+##Updating to Part Code
+going to update this project for the next project in Udacity, using this concept.
